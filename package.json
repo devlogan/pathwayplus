@@ -1,0 +1,33 @@
+{
+  "name": "pathwayplus",
+  "version": "1.0.0",
+  "description": "Pathway Plus is an online learning platform to uplift your skills and boost your career",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devlogan/pathwayplus.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devlogan/pathwayplus/issues"
+  },
+  "homepage": "https://github.com/devlogan/pathwayplus#readme",
+  "dependencies": {
+    "next": "^14.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.17",
+    "postcss": "^8.4.35",
+    "tailwindcss": "^3.4.1"
+  }
+}
